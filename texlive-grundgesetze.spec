@@ -5,8 +5,8 @@
 # catalog-license gpl2
 # catalog-version 1.01
 Name:		texlive-grundgesetze
-Version:	1.01
-Release:	4
+Version:	1.02
+Release:	1
 Summary:	Typeset Frege's Grundgesetze der Arithmetik
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grundgesetze
