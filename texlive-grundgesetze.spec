@@ -1,6 +1,6 @@
 Name:		texlive-grundgesetze
 Version:	58997
-Release:	1
+Release:	2
 Summary:	Typeset Frege's Grundgesetze der Arithmetik
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grundgesetze
